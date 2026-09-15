@@ -3,6 +3,8 @@
 Controle financeiro pessoal, simples e visual.
 
 ### 🔗 Acesse o site: **[minhasfinancastracker.netlify.app](https://minhasfinancastracker.netlify.app/)**
+<img width="1081" height="912" alt="image" src="https://github.com/user-attachments/assets/c955e41a-96ac-4033-8826-1167bc0a41ac" />
+
 
 ---
 
